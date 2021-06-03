@@ -1,0 +1,7 @@
+ANTLR2
+
+java -cp antlr.jar antlr.Tool gramatica.g // gerar arquivo java a partir do antlr (versao utilizada 2.7.6)
+
+javac -cp antlr.jar *.java // compilar todos os arquivos java
+
+java -cp .;antlr.jar Executar < input.txt // compilar o arquivo java e  ler o arquivo de entrada

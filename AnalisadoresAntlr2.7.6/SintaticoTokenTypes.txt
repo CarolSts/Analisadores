@@ -1,0 +1,11 @@
+// $ANTLR 2.7.6 (2005-12-22): gramatica.g -> SintaticoTokenTypes.txt$
+Sintatico    // output token vocab name
+T_EOF=4
+T_mais=5
+T_menos=6
+T_vezes=7
+T_divisao=8
+T_num=9
+T_id=10
+T_divi=11
+T_space=12

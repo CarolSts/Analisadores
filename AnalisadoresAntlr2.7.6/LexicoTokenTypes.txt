@@ -1,0 +1,9 @@
+// $ANTLR 2.7.6 (2005-12-22): gramatica.g -> LexicoTokenTypes.txt$
+Lexico    // output token vocab name
+T_eof=4
+T_mais=5
+T_menos=6
+T_vezes=7
+T_divi=8
+T_num=9
+T_divisao=10
